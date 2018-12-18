@@ -10,7 +10,7 @@
 
 * [repo](https://github.com/michaelageorge/02-classes-inheritance-fp)
 * [travis](https://travis-ci.com/michaelageorge/02-classes-inheritance-fp)
-* [server](https://___.herokuapp.com/)
+* [server](https://lab02-inheritance-george.herokuapp.com/)
 
 ### Modules
 #### `modulename.js`
